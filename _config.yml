@@ -1,6 +1,6 @@
 title: Hugo Rody
 logo: /assets/img/hugo_lattes.jpg
 description: Bioinformatics
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal

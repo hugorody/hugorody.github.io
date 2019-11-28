@@ -4,15 +4,13 @@ layout: default
 
 ## Education
 
-PhD
-University of Viçosa, Brazil
-Applied Biochemistry
-“The fate of duplicate genes in plants”
+**PhD, Biochemistry**
 
-MSc
-University of Viçosa, Brazil
-Agricultural Biochemistry
-“Phytochemistry prospection and evaluation of mutagenic, genotoxic and antioxidant activities from brazilian fig species – Ficus subg. Pharmacosycea (Miq.) Miq.”
+University of Viçosa, Brazil: “The fate of duplicate genes in plants”
+
+**MSc, Biochemistry**
+
+University of Viçosa, Brazil: “Phytochemistry prospection and evaluation of mutagenic, genotoxic and antioxidant activities from brazilian fig species – Ficus subg. Pharmacosycea (Miq.) Miq.”
 
 ## Programming skills
 

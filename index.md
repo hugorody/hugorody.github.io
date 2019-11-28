@@ -2,19 +2,40 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## Education
 
-[Link to another page](./another-page.html).
+PhD
+University of Viçosa, Brazil
+Applied Biochemistry
+“The fate of duplicate genes in plants”
 
-There should be whitespace between paragraphs.
+MSc
+University of Viçosa, Brazil
+Agricultural Biochemistry
+“Phytochemistry prospection and evaluation of mutagenic, genotoxic and antioxidant activities from brazilian fig species – Ficus subg. Pharmacosycea (Miq.) Miq.”
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Programming skills
 
-# Header 1
+*   Python3
+*   PHP
+*   Shell scripting
+*   HTML
+*   R (basic)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Database
 
-## Header 2
+*   MySQL
+
+## Research
+
+*   Omics
+*   Polyploid plants
+*   Plant-pathogen interaction
+
+## Public profiles
+
+*   [Lattes Platform](http://lattes.cnpq.br/4574871657601012).
+
 
 > This is a blockquote following a header.
 >

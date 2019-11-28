@@ -14,7 +14,7 @@ University of Viçosa, Brazil: “Phytochemistry prospection and evaluation of m
 
 ## Programming skills
 
-*   Python3
+*   Python
 *   PHP
 *   Shell scripting
 *   HTML

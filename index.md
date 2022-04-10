@@ -14,8 +14,8 @@ University of Viçosa, Brazil: “Phytochemistry prospection and evaluation of m
 
 ## Work
 
-*   (2019-current) Postdoctoral Fellow at the University of British Columbia, Canada. Department of Botany, Rieseberg's Lab.
-*   (2018-current) Postdoctoral Fellow at the University of São Paulo, Brazil. Department of Genetics, Genomics Group.
+*   (2019-2020) Postdoctoral Fellow at the University of British Columbia, Canada. Department of Botany, Rieseberg's Lab.
+*   (2018-2022) Postdoctoral Fellow at the University of São Paulo, Brazil. Department of Genetics, Genomics Group.
 *   (2016-2018) Postdoctoral Fellow at the Federal University of São Paulo, Brazil. Department of Computer Science.
 
 ## Programming skills
@@ -35,6 +35,7 @@ University of Viçosa, Brazil: “Phytochemistry prospection and evaluation of m
 *   Omics
 *   Polyploid plants
 *   Plant-pathogen interaction
+*   Systems biology
 
 ## Public profiles
 

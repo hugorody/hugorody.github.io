@@ -42,7 +42,7 @@ University of Viçosa, Brazil: “Phytochemistry prospection and evaluation of m
 *   [Lattes Platform](http://lattes.cnpq.br/4574871657601012).
 *   [Google Scholar Citations](https://scholar.google.com/citations?user=c2F5-SIAAAAJ).
 *   [Research Gate](https://www.researchgate.net/profile/Hugo_Rody).
-*   [LinkedIn](https://www.linkedin.com/in/hugo-rody-697736ab/).
+*   [LinkedIn](https://www.linkedin.com/in/hugo-rody/).
 *   [Publons](https://publons.com/researcher/2999285/hugo-rody/).
 *   [Mendeley](https://www.mendeley.com/profiles/hugo-rody1/).
 *   [Orcid](https://orcid.org/0000-0003-3762-2092).

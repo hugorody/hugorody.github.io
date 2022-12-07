@@ -15,6 +15,7 @@ University of Viçosa, Brazil: “Phytochemistry prospection and evaluation of m
 ## Work
 
 *   (2022-today) Senior Research Scientist at Braskem, Brazil. Enzymology and Computational Biology team.
+*   (2021-today) Founder and CEO of Mundo DNA.
 *   (2019-2020) Postdoctoral Fellow at the University of British Columbia, Canada. Department of Botany, Rieseberg's Lab.
 *   (2018-2022) Postdoctoral Fellow at the University of São Paulo, Brazil. Department of Genetics, Genomics Group.
 *   (2016-2018) Postdoctoral Fellow at the Federal University of São Paulo, Brazil. Department of Computer Science.

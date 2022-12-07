@@ -25,18 +25,18 @@ University of Viçosa, Brazil: “Phytochemistry prospection and evaluation of m
 *   PHP
 *   Shell scripting
 *   HTML
-*   R (basic)
+*   R
 
 ## Database
 
 *   MySQL
+*   Postgres
 
 ## Research
 
 *   Omics
-*   Polyploid plants
-*   Plant-pathogen interaction
 *   Systems biology
+*   Biological Networks
 
 ## Public profiles
 
